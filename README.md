@@ -1,5 +1,5 @@
 # juggling_ball
-Juggling balls with IMU and LED, sending data to host via bluetooth low energy (BLE). Three currently made.
+Juggling balls with IMU and LED, sending data to host via bluetooth low energy (BLE). Running circuitpython. Three currently made.
 
 ### v1:  
 - (1) QTPY
