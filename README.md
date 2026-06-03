@@ -1,2 +1,22 @@
 # juggling_ball
-IMU juggling balls
+Juggling balls with IMU and LED, sending data to host via bluetooth low energy (BLE). Three currently made.
+
+### v1:  
+- (1) QTPY
+- (1) MPU6050
+- (1) neopixel
+- (1) Lipo 3.7V 400mAH
+  
+  
+### v2:
+- (1) Xiao SEEED studio nRF52840 Sense Plus (includes IMU on board)
+- (2) neopixel
+- (1) Lipo 3.7V 400mAH
+- (1) button
+
+Two part threaded shell printed via Clear Overture Fast TPU with a thickness of 4.5mm. PLA printed holder for board and button in order to have button and USBC be externally accessible. Hot glue for joining it all together.
+
+
+### Future goals:
+- Capacitive sensing
+- Silicone or Polyurethane shell instead of 3D printed exterior (maybe rotomolded)
