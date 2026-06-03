@@ -24,10 +24,10 @@ Two part threaded shell printed via Clear Overture Fast TPU with a thickness of 
 ### Notes:
 - Code for each ball should be changed so that ball name is "Ball_" A,B,C,etc.
 
-commands sent from host:
-COLOR ball_A 255 0 0        # set ball_A to red
-COLOR ball_B 0 255 0        # set ball_B to green
-COLOR ALL 0 0 255           # set all balls to blue
-COLOR ball_A RESET          # return ball_A to its current mode
-MODE ball_A rainbow         # switch back to rainbow
-MODE ALL blue               # set all balls to solid blue
+commands sent from host:  
+COLOR ball_A 255 0 0        # set ball_A to red  
+COLOR ball_B 0 255 0        # set ball_B to green  
+COLOR ALL 0 0 255           # set all balls to blue  
+COLOR ball_A RESET          # return ball_A to its current mode  
+MODE ball_A rainbow         # switch back to rainbow  
+MODE ALL blue               # set all balls to solid blue  
